@@ -1,2 +1,2 @@
-# computer-science
-This repository contains different kinds of works by student of 1 course Kulinich Yaroslav from group P3113
+# Computer science
+This repository contains different kinds of works in discipline computer science. All of them were made in the beginning of studying in university.
